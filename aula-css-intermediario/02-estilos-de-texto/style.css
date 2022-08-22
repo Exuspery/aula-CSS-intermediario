@@ -1,0 +1,59 @@
+.alinhado-esquerda {
+    text-align: left;
+}
+
+.alinhado-direita {
+    text-align: right;
+}
+
+.alinhado-centro {
+    text-align: center;
+}
+
+.fundo-alinhamento {
+    background-color: rgb(213, 198, 213);
+}
+
+.alinhado-justificado {
+    text-align: justify;
+}
+
+.fundo-transform {
+    background-color: aquamarine;
+}
+
+.maiuscula {
+    text-transform: uppercase;
+}
+
+.minuscula {
+    text-transform: lowercase;
+}
+
+.capitalizado {
+    text-transform: capitalize;
+}
+
+.fundo {
+    background-color: #808080;
+}
+
+.sublinhado {
+  text-decoration: underline;
+}
+
+.linha-sobreposta {
+    text-decoration: line-through;
+}
+
+.sem-text-decoration {
+text-decoration: none;
+}
+
+.altura-entre-linhas {
+    line-height: 40px;
+}
+
+.sombra-de-texto {
+    text-shadow: 2px 2px 1px red;
+}
